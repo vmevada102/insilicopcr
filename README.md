@@ -223,9 +223,7 @@ pair_id,fasta_file,sample_name,seq_id,fwd_start,fwd_end,rev_start,rev_end,fwd_mm
 # 🧾 Citation
 
 ```
-Vishal, V. (2025). InSilicoPCR: A Parallel Python Tool for Multi-Genome In-Silico PCR Analysis. 
-School of Forensic Science, National Forensic Sciences University (NFSU), Gandhinagar, India.
-GitHub: https://github.com/<your-username>/InSilicoPCR
+will be added later
 ```
 
 ---
