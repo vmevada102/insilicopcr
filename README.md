@@ -228,10 +228,7 @@ will be added later
 
 ---
 
-# 📜 License
 
-This project is released under the **MIT License**, the most appropriate for academic, forensic, and research tools.  
-It permits free use, modification, and distribution with attribution.
 
 ---
 
